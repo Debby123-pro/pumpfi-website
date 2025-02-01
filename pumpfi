@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PumpFi - The Future of Finance</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #ffffff;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        section {
+            padding: 50px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .button {
+            background: #007bff;
+            color: white;
+            padding: 15px 30px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 16px;
+        }
+        footer {
+            background: #ffffff;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0px -4px 6px rgba(0, 0, 0, 0.1);
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>PumpFi</h1>
+        <p>The Future of Decentralized Finance</p>
+    </header>
+    <section>
+        <div class="container">
+            <h2>About PumpFi</h2>
+            <p>PumpFi is a decentralized finance token designed for sustainable growth and investor rewards.</p>
+        </div>
+    </section>
+    <section>
+        <div class="container">
+            <h2>Tokenomics</h2>
+            <p>Total Supply: 1,000,000,000 PFI</p>
+            <p>Liquidity: 40%, Community Rewards: 20%, Marketing: 20%, Burn: 10%, Team: 10%</p>
+        </div>
+    </section>
+    <section>
+        <div class="container">
+            <h2>Roadmap</h2>
+            <p>Phase 1: Token Launch | Phase 2: Exchange Listings | Phase 3: DeFi Expansion</p>
+        </div>
+    </section>
+    <section>
+        <div class="container">
+            <h2>How to Buy</h2>
+            <p>1. Create a Web3 wallet. 2. Purchase BNB/ETH. 3. Swap for PumpFi on DEX.</p>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2025 PumpFi | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
